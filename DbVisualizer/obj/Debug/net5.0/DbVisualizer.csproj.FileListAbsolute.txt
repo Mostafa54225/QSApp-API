@@ -1,0 +1,16 @@
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.exe
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.deps.json
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.runtimeconfig.json
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.runtimeconfig.dev.json
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.dll
+D:\Work\QSAppV2\QSApp\DbVisualizer\bin\Debug\net5.0\DbVisualizer.pdb
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.csproj.AssemblyReference.cache
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.AssemblyInfoInputs.cache
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.AssemblyInfo.cs
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.csproj.CoreCompileInputs.cache
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.dll
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\refint\DbVisualizer.dll
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.pdb
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\DbVisualizer.genruntimeconfig.cache
+D:\Work\QSAppV2\QSApp\DbVisualizer\obj\Debug\net5.0\ref\DbVisualizer.dll

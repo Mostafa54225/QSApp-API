@@ -1,0 +1,711 @@
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.exe
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.deps.json
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.json
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.dev.json
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.AssemblyReference.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfoInputs.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfo.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\scopedcss\bundle\QSApp.styles.css
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.Manifest.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.input.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.output.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorCoreGenerate.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.Views.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CopyComplete
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\refint\QSApp.dll
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.pdb
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\QSApp.genruntimeconfig.cache
+C:\Users\Ahmed Salama\source\repos\QSApp\QSApp\obj\Debug\net5.0\ref\QSApp.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\appsettings.json
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.exe
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.deps.json
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.json
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.dev.json
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Castle.Core.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Humanizer.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.AssemblyReference.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfoInputs.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfo.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CoreCompileInputs.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\scopedcss\bundle\QSApp.styles.css
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.Manifest.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.input.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.output.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorCoreGenerate.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cs
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.Views.pdb
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CopyComplete
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.dll
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\refint\QSApp.dll
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.pdb
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\QSApp.genruntimeconfig.cache
+D:\Work\QSApp\QSApp\obj\Debug\net5.0\ref\QSApp.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\appsettings.json
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.exe
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.deps.json
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.json
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.dev.json
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ref\QSApp.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Castle.Core.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Humanizer.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed Badawy\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfoInputs.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfo.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CoreCompileInputs.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.Manifest.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.xml
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\scopedcss\bundle\QSApp.styles.css
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.input.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.output.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorCoreGenerate.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cache
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cs
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.Views.pdb
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CopyComplete
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.dll
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\ref\QSApp.dll
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.pdb
+D:\Ahmed Badawy\QSApp\QSApp\obj\Debug\net5.0\QSApp.genruntimeconfig.cache
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\appsettings.json
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.StaticWebAssets.xml
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.exe
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.deps.json
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.json
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.dev.json
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Castle.Core.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Humanizer.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\RestSharp.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.AssemblyReference.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfoInputs.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfo.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CoreCompileInputs.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\scopedcss\bundle\QSApp.styles.css
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.Manifest.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.input.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.output.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorCoreGenerate.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cs
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.Views.pdb
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CopyComplete
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.dll
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\refint\QSApp.dll
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.pdb
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\QSApp.genruntimeconfig.cache
+D:\Work\QSAppV2\QSApp\QSApp\obj\Debug\net5.0\ref\QSApp.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\EntityFrameworkCore.Triggers.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Work\QSAppV2\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\appsettings.json
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.StaticWebAssets.xml
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.exe
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.deps.json
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.json
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.runtimeconfig.dev.json
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\QSApp.Views.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\Castle.Core.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\EntityFrameworkCore.Triggers.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Humanizer.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\RestSharp.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QSApp\QSApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.AssemblyReference.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfoInputs.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.AssemblyInfo.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CoreCompileInputs.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.MvcApplicationPartsAssemblyInfo.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorAssemblyInfo.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\scopedcss\bundle\QSApp.styles.css
+D:\QSApp\QSApp\obj\Debug\net5.0\staticwebassets\QSApp.StaticWebAssets.Manifest.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.input.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.TagHelpers.output.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorCoreGenerate.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.RazorTargetAssemblyInfo.cs
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.Views.pdb
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.csproj.CopyComplete
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.dll
+D:\QSApp\QSApp\obj\Debug\net5.0\refint\QSApp.dll
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.pdb
+D:\QSApp\QSApp\obj\Debug\net5.0\QSApp.genruntimeconfig.cache
+D:\QSApp\QSApp\obj\Debug\net5.0\ref\QSApp.dll
