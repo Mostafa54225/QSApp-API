@@ -8,7 +8,7 @@ namespace QSApp.DTOs
         public string Name { get; set; }
         public int RangeFrom { get; set; }
         public int RangeTo { get; set; }
-        public IFormFile LogoFile { get; set; }
+        public string LogoFile { get; set; }
         public string Logo { get; set; }
         public int Limit { get; set; }
         public string ClinicType { get; set; }

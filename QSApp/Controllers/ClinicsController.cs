@@ -219,6 +219,7 @@ namespace WebApplication1.Controllers
             clinicToEdit.Limit = clinic.Limit;
             clinicToEdit.ClinicType = clinic.ClinicType;
             clinicToEdit.Cost = clinicCost;
+            clinicToEdit.Logo = clinic.LogoFile;
 
 
             if (clinic.WorkDays?.Any() == true)
@@ -243,16 +244,6 @@ namespace WebApplication1.Controllers
             }
 
 
-
-            if (clinic.LogoFile?.Length > 0)
-            {
-                using (var ms = new MemoryStream())
-                {
-                    clinic.LogoFile.CopyTo(ms);
-                    var fileBytes = ms.ToArray();
-                    clinicToEdit.Logo = Convert.ToBase64String(fileBytes);
-                }
-            }
 
 
             try
@@ -299,7 +290,8 @@ namespace WebApplication1.Controllers
                 Latitude = clinic.Latitude,
                 Longitude = clinic.Longitude,
                 ClinicType = clinic.ClinicType,
-                Cost = clinicCost
+                Cost = clinicCost,
+                Logo = clinic.LogoFile
             };
 
 
@@ -312,7 +304,7 @@ namespace WebApplication1.Controllers
             var weekdaysIds = await _context.WeekDays.Where(weekday => workDays.Contains(weekday.Name)).Select(weekday => weekday.Id).ToListAsync();
 
 
-            if ((clinic.LogoFile != null) && (clinic.LogoFile.Length > 0))
+            /*if ((clinic.LogoFile != null) && (clinic.LogoFile.Length > 0))
             {
                 using (var ms = new MemoryStream())
                 {
